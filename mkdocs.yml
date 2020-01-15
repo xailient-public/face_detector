@@ -1,0 +1,7 @@
+site_name: My Docs
+nav:
+    - About Xailient FaceSDK: XailientFaceSDK.md
+    - Getting Started: getting_started.md
+    - Installation: installation.md
+    - Sample Code: sample_code.md
+theme: readthedocs
