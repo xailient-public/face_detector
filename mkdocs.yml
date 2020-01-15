@@ -4,4 +4,5 @@ nav:
     - Getting Started: getting_started.md
     - Installation: installation.md
     - Sample Code: sample_code.md
-theme: readthedocs
+theme: 
+    name: 'material'
