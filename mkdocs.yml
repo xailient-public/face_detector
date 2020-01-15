@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: Xailient Docs
 nav:
     - About Xailient FaceSDK: XailientFaceSDK.md
     - Getting Started: getting_started.md
