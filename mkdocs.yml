@@ -6,3 +6,7 @@ nav:
     - Sample Code: sample_code.md
 theme: 
     name: 'material'
+    logo: 'img/logo.png'
+    favicon: 'img/favicon.png'
+extra_css:
+- 'stylesheets/extra.css'

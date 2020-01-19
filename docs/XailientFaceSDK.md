@@ -21,7 +21,7 @@ Its compact size and efficient algorithm makes it suitable for real-time applica
 
 ## Why Xailient Face Detector SDK?
 
-1. Xailient Face Detector SDK is compact and has a very small memory footprint (how much?).
+1. Xailient Face Detector SDK is compact and has a very small memory footprint (45kb).
 
 2. It is designed for computationally limited embedded devices such as RaspberryPi and runs efficiently on these devices as well.
 
