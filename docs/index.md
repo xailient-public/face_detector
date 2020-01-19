@@ -1,10 +1,10 @@
 # Welcome to Xailient Documentation
 
-## [Xailient FaceSDK](https://xailient-face-detection-sdk.readthedocs.io/en/latest/XailientFaceSDK/)
+## [Xailient FaceSDK](/en/latest/XailientFaceSDK/)
 
-## [Getting Started](https://xailient-face-detection-sdk.readthedocs.io/en/latest/getting_started/)
+## [Getting Started](/en/latest/getting_started/)
 
-## [Installations](https://xailient-face-detection-sdk.readthedocs.io/en/latest/installation/)
+## [Installations](/en/latest/installation/)
 
 ## [Blogs](https://www.xailient.com/blog)
 
