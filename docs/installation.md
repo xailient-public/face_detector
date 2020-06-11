@@ -1,3 +1,7 @@
+!!! error "DEPRICATED"
+    [Xailient FaceSDK portal](https://sdk.xailient.com) is out-of-date and will no longer be maintained. Please use [Xailient AI Console](https://console.xailient.com) instead to get the updated FaceDetector SDK and more detector models.
+    This documentation is out-of-date and will no longer be maintained. [Visit our new documentation](https://xailient-docs.readthedocs.org).
+    
 # Supported Devices
 
 * ARM x32: Raspberry Pi 3B+ (Other devices may work, but technical support is not guarenteed. Please contact at support@xailient.com if you face any issues.)
